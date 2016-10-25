@@ -11,5 +11,5 @@ Building is straight forward, to build the client run ```gcc client.c cmd.c file
 
 ## Why would you do this?
 This project was an assignment for my systems programming course. If you wish to see a simple shell in C, check out [shsh](https://github.com/mbags/shsh).
-This code was written as a team with [@Emily](https://github.com/emily-c)
+This code was written as a team with [@emily-c](https://github.com/emily-c)
 
